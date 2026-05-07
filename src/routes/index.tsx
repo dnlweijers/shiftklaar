@@ -26,31 +26,31 @@ const SECTIONS = [
     key: "start",
     title: "Start van jouw shift",
     question: "Hoe trof je de afdeling aan toen je begon?",
-    placeholder: "Bijvoorbeeld: afdeling was netjes, veel lege schappen bij frisdrank...",
+    placeholder: "Bijvoorbeeld: afdeling was netjes, gekoelde dranken stond leeg...",
   },
   {
     key: "tasks",
     title: "Uitgevoerde taken",
     question: "Welke taken heb je uitgevoerd? Wat viel je op?",
-    placeholder: "Bijvoorbeeld: bloemen besteld, gekoelde dranken gevuld...",
+    placeholder: "Bijvoorbeeld: bloemen besteld, gekoelde dranken gevuld, onder het koffiezetapparaat geordend...",
   },
   {
     key: "reflection",
     title: "Reflectie",
     question: "Eerlijk stukje",
-    placeholder: "Bijvoorbeeld: geen tijd gehad om te vegen door drukte...",
+    placeholder: "Bijvoorbeeld: geen tijd gehad om te vegen door drukte, volgende keer niet zomaar weglopen zonder het te zeggen...",
   },
   {
     key: "selfscan",
     title: "Zelfscan & klanten",
     question: "Hoe verliep dit?",
-    placeholder: "Bijvoorbeeld: erg druk, veel controles, scanner werkte soms niet...",
+    placeholder: "Bijvoorbeeld: erg druk, veel controles...",
   },
   {
     key: "team",
     title: "Samenwerken",
     question: "Hoe verliep de samenwerking met je collega's?",
-    placeholder: "Bijvoorbeeld: goede samenwerking met avonddienst...",
+    placeholder: "Bijvoorbeeld: goede samenwerking met [naam]...",
   },
 ] as const;
 
